@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [3451-string-compression-iii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/3451-string-compression-iii) |
 ## Trie
@@ -47,8 +48,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
