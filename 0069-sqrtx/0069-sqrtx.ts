@@ -1,7 +1,23 @@
 function mySqrt(x: number): number {
-    let initValue: number = x / 2;
-    while (Math.abs(initValue * initValue - x) > 0.00001) {
-        initValue = 0.5 * (initValue + (x / initValue));
+    if (x < 2) return x; // للتعامل مع x = 0 أو 1
+
+    let low = 1,
+        high = x,
+        mid: number,
+        ans = 0;
+
+    while (low <= high) {
+        mid = Math.floor((low + high) / 2);
+
+        if (mid * mid === x) {
+            return mid;
+        } else if (mid * mid < x) {
+            ans = mid;        
+            low = mid + 1;
+        } else {
+            high = mid - 1;
+        }
     }
-    return Math.floor(initValue);
+
+    return ans;
 }
