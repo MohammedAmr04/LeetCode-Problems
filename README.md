@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -61,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
