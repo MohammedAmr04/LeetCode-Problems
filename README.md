@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
@@ -108,18 +110,33 @@
 | [0049-group-anagrams](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
