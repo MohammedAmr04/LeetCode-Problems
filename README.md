@@ -16,6 +16,7 @@
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +149,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
