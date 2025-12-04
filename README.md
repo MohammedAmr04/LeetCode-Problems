@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
