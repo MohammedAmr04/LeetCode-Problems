@@ -155,4 +155,8 @@
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
