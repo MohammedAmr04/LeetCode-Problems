@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0020-valid-parentheses) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
