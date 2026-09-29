@@ -16,6 +16,7 @@
 | [0119-pascals-triangle-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -173,4 +175,8 @@
 | [1148-article-views-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
