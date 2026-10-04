@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Hash Table
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
