@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -214,4 +215,5 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
