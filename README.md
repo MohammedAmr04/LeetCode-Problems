@@ -49,6 +49,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0165-compare-version-numbers](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3451-string-compression-iii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
@@ -171,6 +173,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -218,4 +221,5 @@
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
