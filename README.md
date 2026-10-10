@@ -47,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -77,6 +78,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3451-string-compression-iii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/3451-string-compression-iii) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
