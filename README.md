@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -128,6 +129,7 @@
 | [0011-container-with-most-water](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0561-array-partition) |
 ## String Matching
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
@@ -245,4 +248,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
