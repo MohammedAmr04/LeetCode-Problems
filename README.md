@@ -26,6 +26,7 @@
 | [0303-range-sum-query-immutable](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0682-baseball-game) |
@@ -175,6 +176,7 @@
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/MohammedAmr04/LeetCode-Problems/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
